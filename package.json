@@ -15,7 +15,6 @@
   },
   "description": "All files added",
   "main": "app.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
